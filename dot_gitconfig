@@ -1,0 +1,12 @@
+[user]
+	name = eina
+	email = eina@eina.cc
+	signingKey = /home/eina/.ssh/id_ed25519.pub
+[pull]
+	rebase = true
+[gpg]
+	format = ssh
+[commit]
+	gpgSign = true
+[init]
+	defaultBranch = main
